@@ -38,3 +38,10 @@ This project presents an interactive Excel dashboard designed to analyze sales p
 ## Project Files
 - Excel Dashboard (.xlsx)
 - Dashboard Screenshot (.png)
+
+## Author
+**Paresh Sawant**
+
+Data Analyst Enthusiast
+
+GitHub: Your GitHub Profile Link
